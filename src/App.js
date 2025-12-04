@@ -11,7 +11,7 @@ export default function App() {
   });
 
   // Your contact details
-  const CONTACT_EMAIL = "augustkory29@gmail.com";
+  const CONTACT_EMAIL = "insigniabackupsolutions@gmail.com";
   const WHATSAPP_NUMBER = "263784443299"; // Format without + or spaces for API
 
   useEffect(() => {
